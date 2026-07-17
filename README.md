@@ -14,9 +14,6 @@ Mostly building things I’d want to use myself.
 <a href="https://riyo.me">
   <img src="https://img.shields.io/badge/Website-riyo.me-5865F2?style=for-the-badge" alt="Website" />
 </a>
-<a href="https://riyo.me/work">
-  <img src="https://img.shields.io/badge/Work-Available-22C55E?style=for-the-badge" alt="Work" />
-</a>
 
 </div>
 
