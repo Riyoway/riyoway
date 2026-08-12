@@ -15,7 +15,7 @@ Mostly building things I’d want to use myself.
   <img src="https://img.shields.io/badge/Website-riyo.me-5865F2?style=for-the-badge" alt="Website" />
 </a>
 <a href="https://教育目的.com">
-  <img src="https://badge.教育目的.com/?color=blue" alt="教育目的" />
+  <img src="https://badge.xn--wcv159acjaj74a.com/?color=blue" alt="教育目的" />
 </a>
 
 </div>
